@@ -26,7 +26,7 @@ Built with **HTML, CSS, and JavaScript**, it integrates a weather API to display
 ---
 
 ## 🚀 Live Demo  
-🔗 **[Live MausamFinder](https://mddanishalam2.github.io/MausamFinder/)**  
+🔗 **[Live MausamFinder](https://mddanishalam2.github.io/Mausam-Finder/)**  
 
 👨‍💻 Author
 Md Danish Alam
